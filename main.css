@@ -1,0 +1,50 @@
+.main-header{
+    color: gray;
+    
+}
+
+@font-face{
+    font-family:bahnschrift;
+    src: url(BAHNSCHRIFT.ttf);
+}
+
+a
+{
+    color: #606062;
+    font-family: bahnschrift;
+    text-decoration: none;
+}
+
+.body
+{
+    font-family: bahnschrift,sans-serif;
+    color: #606062;
+}
+
+.container
+{
+    background-color: lightgray;
+}
+
+.logo-header
+{
+    width: 300px;
+    height: auto;
+}
+
+.bosch-icon{
+    width: 40px;
+    height: auto;
+    position: relative;
+}
+
+.banner__img{
+    width: 500px;
+    height: auto;
+}
+
+.header--link--red
+{
+    color: #AF2E2F;
+}
+
