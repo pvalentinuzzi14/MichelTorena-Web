@@ -33,17 +33,17 @@
             </div>
                     
         
-        <div class="row-fluid color-dark p-3 h-100 my-auto ">
-              <div class="row">
-                <div class="col-sm-3 ">
-              </div>
-              <div class="col-lg-6 titulo text-center">
-                <h2 class="titulo justify-content-center">PEDI TU PRESUPUESTO</h2>
-              </div>
-              <div class="col-sm-3 text-center m-auto">
-                <a href="contacto.php" class="color-red text-white"> CONTACTANOS</a> 
-              </div>
-          </div>
+        <div class="row-fluid color-dark p-3 ">
+                <div class="row ">
+                  <div class="col-md-3">
+                </div>
+                <div class="col-md-6 titulo text-center m-auto">
+                  <h2 class="titulo m-auto">PEDI TU PRESUPUESTO</h2>
+                </div>
+                <div class="col-md-3 text-center m-auto">
+                  <a href="contacto.php" class="color-red text-white"> CONTACTANOS</a> 
+                </div>
+        </div>
 
     </section>
     <main class="container-fluid text-center">      
@@ -53,7 +53,7 @@
               <h4  style="color: rgb(165, 24, 24);" class="titulo mt-2">  OFRECEMOS UN SERIVIO INTEGRAL PARA TU AUTOMOVIL</h4>
 
                 <div class="row row-fluid m-auto p-3">
-                        <div class="col-md-3 m-auto">
+                        <div class="col-md-3 m-auto d-none d-md-block">
                             <img src="img/indexTecnico.png" class="img-fluid" width="150em">
                         </div>
                         <div class="col-md-6 text-center">
@@ -67,7 +67,7 @@
                         </div>
                         
                         <div class="col-md-3 m-auto">
-                            <img src="img/indexBosch.png" class="img-fluid" width="150em">
+                            <img src="img/indexBosch.png" class="img-fluid d-none d-md-block" width="150em">
                         </div>
                 </div>
                 
