@@ -18,71 +18,36 @@ a
     margin-top: 18px;
 }
 
-
-
-body
+.body
 {
-    font-family: bahnschrift;
+    font-family: bahnschrift,sans-serif;
     color: #606062;
-}
-
-footer
-{
-    font-family: bahnschrift;
 }
 /*logo*/
 .container-fluid .d-inline-block{
     width: 20rem!important;
 }
-
 .titulo{
     color: #606062;
-    font-family: bahnschrift,sans-serif;
-    text-decoration-style: dashed;
-    font-weight: 400;
 }
 .subTitulo{
     color: #606062;  
-    font-family: bahnschrift,sans-serif;
-
 }
 .lista .item{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 600;
-    color: black;  
+    color: #606062;  
 }
 
 ul {
-    list-style-image: url("img/lsit-style-item.png");
+    list-style: none; /* Quitamos los marcadores */
+    padding: 0; /* Quitamos el padding por defecto de la lista */
+    margin-left: 10px; /* Separamos la lista de la izquierda */
  }
-
-
+    
  li::before { /* Añadimos contenido antes de cada elemento de la lista */
-    font-weight:5em;
+    content: "\2022"; /* Insertamos el marcador */
+    font-weight:900;
     padding-right: 8px; /* Establecemos el espacio entre las viñetas y el list item */
+    color: red; /* Coloreamos la viñeta */
  }
-
-.color-red
-{
-    background-color: rgb(175, 46, 47);
-    padding: 0.2em;
-}
-
-.color-dark
-{
-    background-color: rgb(230,231,233);
-}
-
-.padding-3
-{
-    padding: 10px;
-}
-
-.text-white
-{
-    text-decoration-color: aliceblue;
-}
-
-.subrayado{
-    text-decoration: underline rgb(165, 24, 24);
-}
