@@ -12,9 +12,7 @@
             </section>
        
             <main class="container-fluid text-center ">      
-              <img src="img/SERVICIOS%20BODY.png" alt="servicios" class="img-fluid p-5" width="80%">
-        
-       
+              <img src="img/SERVICIOS%20BODY.png" alt="servicios" class="img-fluid m-auto p-2" >
             </main>
          <?php include("footer.php"); ?>
 

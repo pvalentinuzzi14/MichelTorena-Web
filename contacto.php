@@ -9,7 +9,7 @@
               <h4 class="subTitulo my-3 ">Por consultas y turnos completa tus datos a continuación. En la brevedad nos estaremos comunicando</h4>
                <div class="row-fluid">
                 <div class="col-lg-12">
-                    <form action="sendMail.php" name="sentMessage" id="contactForm" method="get">
+                    <form action="sendMail.php" name="sentMessage" id="contactForm" method="post">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
@@ -35,9 +35,9 @@
                             
                         </div>
                         <div class="row">
-                                <div class="col"> </div>
-                                <div class="col"> </div>
-                            <div class="col ml-auto d-flex float-right" id="success"><input type="submit" class="color-red text-white p-2 d-block m-auto" width="500px"  name="Enviar" value="ENVIAR"></div>
+                                <div class="col-md-auto"> </div>
+                                <div class="col-md-auto"> </div>
+                            <div class="col-md-auto ml-auto d-flex float-right" id="success"><input type="submit" class="color-red text-white p-2 d-block m-auto" width="500px"  name="Enviar" value="ENVIAR"></div>
                             </div>
                     </form>
                 </div>
