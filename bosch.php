@@ -7,7 +7,7 @@
 <main class="container-fluid ">      
 <h1 class="text-center text-uppercase titulo p-3 mt-4 subrayado">BENEFICIOS DE VISITAR UN BOSH CAR SERVICE</h1>       
 <div class="row p-5 m-auto">           
-    <div class="col">    
+    <div class="col-md-6">    
         <ul style="font-family: bahnschrift; font-size:1.5em ; color: #606062">
            <div class="row p-4">
                <li >
@@ -44,7 +44,7 @@
             </li>
         </ul>
     </div>
-    <div class="col">    
+    <div class="col-md-6">    
         <ul style="font-family: bahnschrift; font-size:1.5em ; color: #606062">
            <div class="row p-4">
             <li class="beneficios">

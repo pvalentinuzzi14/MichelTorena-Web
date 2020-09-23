@@ -1,6 +1,6 @@
 <?php 
     require_once("top-nav.php");
-
+   
 ?>
     <section class="container-fluid">
            <div id="carouseindex" class="carousel slide" data-ride="carousel">
@@ -52,7 +52,11 @@
               <h4 class="subTitulo my-auto">Más de 25 años de experiencia en el mercado de mantenimiento y reparación de automotores</h4>
               <h4  style="color: rgb(165, 24, 24);" class="titulo mt-2">  OFRECEMOS UN SERIVIO INTEGRAL PARA TU AUTOMOVIL</h4>
 
-                <div class="row row-fluid m-auto p-3">
+                <div class="row row-fluid m-auto p-2">
+                        <div class="col-md-3 m-auto d-block d-md-none">
+                            <img src="img/indexTecnico.png" class="img-fluid" width="70em">
+                            <img src="img/indexBosch.png" class="img-fluid" width="70em">
+                        </div>
                         <div class="col-md-3 m-auto d-none d-md-block">
                             <img src="img/indexTecnico.png" class="img-fluid" width="150em">
                         </div>
@@ -69,6 +73,7 @@
                         <div class="col-md-3 m-auto">
                             <img src="img/indexBosch.png" class="img-fluid d-none d-md-block" width="150em">
                         </div>
+
                 </div>
                 
               
