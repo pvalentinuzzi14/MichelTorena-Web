@@ -1,0 +1,10 @@
+Datos de acceso
+
+Host: https://mipanel.ferozo.com
+Usuario: c1990426
+Contraseña: 17GInenowu
+
+Datos de acceso FTP
+Host / Puerto: c1990426.ferozo.com / 21
+Usuario: c1990426
+Contraseña: 17GInenowu

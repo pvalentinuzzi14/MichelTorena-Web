@@ -83,6 +83,11 @@ ul {
     text-decoration-color: aliceblue;
 }
 
+.text-red
+{
+    text-decoration-color: rgb(175, 46, 47);
+}
+
 .subrayado{
     text-decoration: underline rgb(165, 24, 24);
 }

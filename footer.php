@@ -40,7 +40,7 @@
 
                 </div>
 
-                <div class="row justify-content-center">
+                <div class="row p-4 justify-content-center">
                             <img src="img/LOGO.png" name="logo" height="50%" width="50%" >
                 </div>
 

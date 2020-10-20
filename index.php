@@ -12,14 +12,13 @@
                   </ol>
                   
                   <div class="carousel-inner">
-                    <div class="carousel-item active" data-interval="100">
-                      <img src="img/banner%20inicio.jpg" class="d-block w-100" alt="original">
-                    </div>
-                    <div class="carousel-item" data-interval="2000">
-                      <img src="img/bannerContacto.jpg" class="d-block w-100" alt="contacto2">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="img/bannerServicios.jpg" class="d-block w-100" alt="servicios3">
+                    
+                  <div class="carousel-item active" data-interval="100">
+                      <img src="img/banner%20inicio1.jpg" class="d-block w-100" alt="original">
+                    </div><div class="carousel-item " data-interval="100">
+                      <img src="img/banner%20inicio2.jpg" class="d-block w-100" alt="original">
+                    </div><div class="carousel-item " data-interval="100">
+                      <img src="img/banner%20inicio3.jpg" class="d-block w-100" alt="original">
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#carouseindex" role="button" data-slide="prev">
@@ -53,14 +52,14 @@
               <h4  style="color: rgb(165, 24, 24);" class="titulo mt-2">  OFRECEMOS UN SERIVIO INTEGRAL PARA TU AUTOMOVIL</h4>
 
                 <div class="row row-fluid m-auto p-2">
-                        <div class="col-md-3 m-auto d-block d-md-none">
+                        <div class="col-md-4 m-auto d-block d-md-none">
                             <img src="img/indexTecnico.png" class="img-fluid" width="70em">
                             <img src="img/indexBosch.png" class="img-fluid" width="70em">
                         </div>
-                        <div class="col-md-3 m-auto d-none d-md-block">
-                            <img src="img/indexTecnico.png" class="img-fluid" width="150em">
+                        <div class="col-md-4 m-auto d-none d-md-block">
+                            <img src="img/indexTecnico.png" class="img-fluid m-auto" width="150em">
                         </div>
-                        <div class="col-md-6 text-center">
+                        <div class="col-md-4 text-center m-auto">
                             <ul class="lista text-left mt-5">
                                 <li class="item mt-4" style="font-family: bahnschrift; font-size:1.2em; color: #606062">Contamos con personal altamente <br> capacitado</li>
                                 <li class="item mt-4" style="font-family: bahnschrift;font-size:1.2em ;color: #606062">Te ofrecemos atención personalizada</li>
@@ -70,8 +69,8 @@
                             </ul>  
                         </div>
                         
-                        <div class="col-md-3 m-auto">
-                            <img src="img/indexBosch.png" class="img-fluid d-none d-md-block" width="150em">
+                        <div class="col-md-4 m-auto">
+                            <img src="img/indexBosch.png" class="img-fluid d-none d-md-block m-auto" width="150em">
                         </div>
 
                 </div>

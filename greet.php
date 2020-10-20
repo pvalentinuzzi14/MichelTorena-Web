@@ -1,13 +1,11 @@
 <?php 
     require_once("top-nav.php");
 ?>
-            <section class="container-fluid">
-                <img src="img/bannerContacto.jpg" alt="banner" class="img-fluid">
-            </section>
+           
         <main class="container-fluid text-center p-5 ">      
               <h1 class="text-uppercase titulo mt-4 subrayado">GRACIAS POR CONTACTARNOS. EN BREVE RESPONDEREMOS TU CONSULTA VIA MAIL</h1>
         
-                      <div class="text-left p-5">
+                      <div class="text-center p-5">
                        <h4 class="titulo p-7" style="color: rgb(165,24,24);">HORARIO DE ATENCION</h4>
                        <h4 class="subTitulo my-3">Lunes a Viernes <br>
                         de 8:30 a 13:00 hs. <br>

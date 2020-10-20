@@ -4,15 +4,17 @@
 ?>
         
         <body>
-         
+        
+             
              
             <section class="container-fluid">
                 <img src="img/bannerServicios.jpg" alt="banner" class="img-fluid">
                 
             </section>
-       
-            <main class="container-fluid text-center ">      
-              <img src="img/SERVICIOS%20BODY.png" alt="servicios" class="img-fluid m-auto p-2" >
+            <main class="container-fluid text-center">      
+            <h1 class="text-uppercase titulo mt-4 subrayado">NUESTROS SERVICIOS</h1>
+            <main class="container-fluid text-center p-2 ">      
+              <img src="img/SERVICIOS%20BODY.png" alt="servicios" class="img-fluid m-auto p-5" >
             </main>
          <?php include("footer.php"); ?>
 

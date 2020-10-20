@@ -12,7 +12,7 @@
 
         <header class="container-fluid ">
             <nav class="navbar navbar-expand-lg navbar-light color-dark">
-                <a class="navbar-brand mt-3 ml-4" href="#">
+                <a class="navbar-brand mt-3 ml-4" href="index.php">
                     <img src="img/LOGO.png" width="30" height="30" class="d-inline-block align-top img-fluid">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,13 +21,12 @@
                 
                 <div class="collapse navbar-collapse justify-content-md-end" id="navbarNavAltMarkup">
                   <div class="navbar-nav text-center">
-                    <a class="nav-item nav-link active mx-3" href="index.php">Inicio</a>
-                    <a class="nav-item nav-link mx-3" href="nosotros.php">Nosotros</a>
-                    <a class="nav-item nav-link mx-3" href="servicios.php">Servicios</a>
-                    <span><a class="nav-item nav-link mx-3" href="bosch.php"><img src="img/bosch%20logo.png" class="mx-1"
-                     height="40px"></a></span>
+                    <a class="nav-item nav-link active mx-3" href="index.php">INICIO</a>
+                    <a class="nav-item nav-link mx-3" href="nosotros.php">NOSOTROS</a>
+                    <a class="nav-item nav-link mx-3" href="servicios.php">SERVICIOS</a>
+                    <span><a class="nav-item nav-link" href="bosch.php"><img src="img/bosch%20logo.png" height="40px"></a></span>
                     
-                    <a class="nav-item nav-link mx-3" href="contacto.php">Contacto</a>
+                   <strong><a class="nav-item nav-link mx-3 text-red" href="contacto.php" style="color: (175, 46, 47);">CONTACTO</a></strong> 
                   </div>
                 </div>
               </nav>
